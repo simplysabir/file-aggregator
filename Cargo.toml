@@ -1,6 +1,10 @@
 [package]
-name = "file_aggregator"
+name = "fileagg"
 version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+ignore = "0.4"
+cli-clipboard = "0.4"
+clap = { version = "4.4", features = ["derive"] }
+indicatif = "0.16.2"
