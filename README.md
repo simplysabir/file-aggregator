@@ -1,6 +1,6 @@
 
 # File Aggregator (`fileagg`)
-![](https://imgur.com/a/juhU5vZ)
+![](https://i.imgur.com/bHEFnTd.png)
 
 Welcome to `fileagg`, the ultimate file aggregation tool! If you've ever needed to consolidate multiple files from a directory into a single file effortlessly, `fileagg` is your go-to solution. With features like respecting `.gitignore`, excluding `node_modules`, and supporting multiple output options, `fileagg` makes file management a breeze.
 
