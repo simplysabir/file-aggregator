@@ -8,7 +8,7 @@ description = "The ultimate file aggregation tool! If you've ever needed to cons
 readme = "README.md"
 homepage = "https://github.com/simplysabir/file_aggregator"
 repository = "https://github.com/simplysabir/file_aggregator"
-keywords = ["cli", "aggregator", "file aggregation", "file", "clipboard"]
+keywords = ["cli", "aggregator", "file-aggregation", "file", "clipboard"]
 categories = ["command-line-utilities", "filesystem", "text-processing", "data-structures", "development-tools"]
 
 [dependencies]
