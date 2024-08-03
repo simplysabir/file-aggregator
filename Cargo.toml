@@ -2,6 +2,14 @@
 name = "fileagg"
 version = "0.1.0"
 edition = "2021"
+authors = ["Sabir Khan <simplysabir@gmail.com>"]
+license = "MIT"
+description = "The ultimate file aggregation tool! If you've ever needed to consolidate multiple files from a directory into a single file effortlessly"
+readme = "README.md"
+homepage = "https://github.com/simplysabir/file_aggregator"
+repository = "https://github.com/simplysabir/file_aggregator"
+keywords = ["cli", "aggregator", "file aggregation", "file", "clipboard"]
+categories = ["command-line-utilities", "filesystem", "text-processing", "data-structures", "development-tools"]
 
 [dependencies]
 ignore = "0.4"

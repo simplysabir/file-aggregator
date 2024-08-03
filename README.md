@@ -151,6 +151,10 @@ fileagg --file-types rs,js,py
 
 We welcome contributions! Feel free to submit issues, pull requests, or ideas for improvements.
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
+
 ## Contact
 
 For questions or feedback, reach out to [simplysabir](https://github.com/simplysabir).
